@@ -35,7 +35,7 @@ if($delete)
 header('Location: izbrisano.php');
 } 
 else{
-    echo "ERROR: Could not able to execute $query. " . $conn->error;
+    echo "ERROR: Could not abble to execute $query. " . $conn->error;
 }
 
 }
