@@ -101,10 +101,7 @@ $conn->close();
 
 <br>
 
-<select>
-    <option class="boldoption">Some bold option.</option>
-    <option>Some normal-font option.</option>
-</select>
+
 
 				
 			
