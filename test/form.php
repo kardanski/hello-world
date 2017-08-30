@@ -27,7 +27,7 @@ input:required {
 					<div class="form_description">
 					    
 			<h2>Unos podataka</h2>
-			<p>Formular za unošenje podataka o učeniku</p>
+			<p>Formular za unošenje ocena i podataka o učeniku</p>
 		</div>						
 			<ul >
 		<li id="li_3" >
