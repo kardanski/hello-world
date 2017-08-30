@@ -111,7 +111,7 @@ $query2=$result->fetch_array(MYSQLI_ASSOC);
 		
 			<ul >
 		<li id="li_3" >
-		<label class="description" for="odeljenje">Izabrati odeljenje </label>
+		<label class="description" for="odeljenje">Izabrati odeljenjeee </label>
 		<div>
 		<select required class="element select medium" id="element_3" name="odeljenje"> 
 	<?php
