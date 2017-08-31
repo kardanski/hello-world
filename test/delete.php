@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -50,7 +50,7 @@ else{
 		<ul>	<label class="description" ><a href="form.php">Unos novih učenika</a><br>
 			<a href="sviuneti.php">Pregledaj spisak unetih učenika</a><br>
 			
-			<a href="stampa.php">Štampanje podataka</a></label><br></ul>
+			<a href="stampa.php">Štampanjeeeee podataka</a></label><br></ul>
 			
 		<form  class="appnitro"  method="post" action="">
 					<div class="form_description">
