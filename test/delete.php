@@ -54,7 +54,7 @@ else{
 			
 		<form  class="appnitro"  method="post" action="">
 					<div class="form_description">
-					    <br>
+					    <br>gfhfhgfhgfhf
 			<h2>Potvrdi brisanje podataka za učenika:</h2>
 		<?php echo '<strong>Ime: </strong>'.$geri['ime'];
 		      echo '<br>';
