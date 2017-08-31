@@ -18,3 +18,9 @@
 		<SaveUserAndPwd>0</SaveUserAndPwd>
 	</NetworkConfig>
 	<NetworkConfig isNDIS="0" canbeDelete="1" isPreferred="1"><ConfigFileName>Teleno</ConfigFileName><UserName>Telenor</UserName><Password>gprs</Password><LoginNumber>*99#</LoginNumber><AutoGetAPN>0</AutoGetAPN><APN>internet</APN><AutoGetDNS>1</AutoGetDNS><MainDNS>0.0.0.0</MainDNS><StandbyDNS>0.0.0.0</StandbyDNS><AutoGetPDP>1</AutoGetPDP><PDPAddress>0.0.0.0</PDPAddress><PDPType>IP</PDPType><AuthType>PAP</AuthType><AskUserAndPwd>0</AskUserAndPwd><SaveUserAndPwd>0</SaveUserAndPwd></NetworkConfig></AllNetworkConfigs>
+
+
+
+
+
+kure pale
